@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash97184&label=Profile%20views&color=0e75b6&style=flat" alt="akash97184" /> </p>
 
-- 🔭 I’m currently working on **Weather App**
+- 🔭 I’m currently working on **react projects**
 
 - 🌱 I’m currently learning **React.js, SaaS**
 
-- 💬 Ask me about **Html, Css, Javascript, C++, Tailwind Css**
+- 💬 Ask me about **Html, Css, Javascript, C++, Tailwind Css, React**
 
 - 📫 How to reach me **aakash92056@gmail.com**
 
