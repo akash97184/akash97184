@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **aakash92056@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1V-1k4yi0NW-dz7GbaIa3yyJd_L6Tsl1O/view?usp=share_link]([https://drive.google.com/file/d/1V-1k4yi0NW-dz7GbaIa3yyJd_L6Tsl1O/view?usp=share_link](https://drive.google.com/file/d/1iKQnHCNaKYZd-NXj5puq157GEL4_UJAV/view?usp=drive_link))
+- 📄 Know about my experiences ([https://drive.google.com/file/d/1V-1k4yi0NW-dz7GbaIa3yyJd_L6Tsl1O/view?usp=share_link](https://drive.google.com/file/d/1iKQnHCNaKYZd-NXj5puq157GEL4_UJAV/view?usp=drive_link))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
